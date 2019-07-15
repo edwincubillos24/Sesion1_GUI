@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sesion1_GUI</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre: </string>
+    <string name="correo">Correo electrónico</string>
+    <string name="cedula">Numero de documento</string>
+    <string name="guardar">Guardar</string>
+</resources>

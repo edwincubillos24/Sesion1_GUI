@@ -18,5 +18,5 @@ class MainActivity : AppCompatActivity() {
             var respuesta = nombre + "\n" + correo + "\n" + cedula  //Concatenación de los datos ingresados
             txResultado.text = respuesta                //Se settean el resultado en el textview final
         }
-    }//prueba commit2
+    }//prueba commit2 prueba commit version3
 }

@@ -5,4 +5,12 @@
     <string name="correo">Correo electrónico</string>
     <string name="cedula">Numero de documento</string>
     <string name="guardar">Guardar</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="cine">Cine</string>
+    <string name="nadar">Nadar</string>
+    <string name="leer">Leer</string>
+    <string name="Leer">Leer</string>
+    <string name="series">Series</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
 </resources>
